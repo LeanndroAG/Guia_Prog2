@@ -1,0 +1,16 @@
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_5\bin\Debug\net5.0\Ejercicio_5.exe
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_5\bin\Debug\net5.0\Ejercicio_5.deps.json
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_5\bin\Debug\net5.0\Ejercicio_5.runtimeconfig.json
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_5\bin\Debug\net5.0\Ejercicio_5.runtimeconfig.dev.json
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_5\bin\Debug\net5.0\Ejercicio_5.dll
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_5\bin\Debug\net5.0\ref\Ejercicio_5.dll
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_5\bin\Debug\net5.0\Ejercicio_5.pdb
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_5\obj\Debug\net5.0\Ejercicio_5.csproj.AssemblyReference.cache
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_5\obj\Debug\net5.0\Ejercicio_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_5\obj\Debug\net5.0\Ejercicio_5.AssemblyInfoInputs.cache
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_5\obj\Debug\net5.0\Ejercicio_5.AssemblyInfo.cs
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_5\obj\Debug\net5.0\Ejercicio_5.csproj.CoreCompileInputs.cache
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_5\obj\Debug\net5.0\Ejercicio_5.dll
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_5\obj\Debug\net5.0\ref\Ejercicio_5.dll
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_5\obj\Debug\net5.0\Ejercicio_5.pdb
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_5\obj\Debug\net5.0\Ejercicio_5.genruntimeconfig.cache
