@@ -13,7 +13,21 @@ namespace Ejercicio_6
     {
         static void Main(string[] args)
         {
+            int añoUno, añoDos;
+            
+            Console.Write("Ingrese año 1: ");
+            añoUno = int.Parse(Console.ReadLine());
+            Console.Write("Ingrese año 2: ");
+            añoDos = int.Parse(Console.ReadLine());
 
+            for(int añoBisiesto = añoUno; añoBisiesto <= añoDos; añoBisiesto++)
+            {
+                if (añoBisiesto % 4 == 0 && añoBisiesto % 100 != 0 || añoBisiesto % 400 == 0) 
+                {
+                    Console.WriteLine("El año {0} es bisiesto", añoBisiesto);
+                }
+            }
+            Console.ReadKey();
         }
     }
 }
