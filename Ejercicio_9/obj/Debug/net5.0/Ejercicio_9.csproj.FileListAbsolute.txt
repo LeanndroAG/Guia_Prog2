@@ -1,0 +1,15 @@
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_9\bin\Debug\net5.0\Ejercicio_9.exe
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_9\bin\Debug\net5.0\Ejercicio_9.deps.json
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_9\bin\Debug\net5.0\Ejercicio_9.runtimeconfig.json
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_9\bin\Debug\net5.0\Ejercicio_9.runtimeconfig.dev.json
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_9\bin\Debug\net5.0\Ejercicio_9.dll
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_9\bin\Debug\net5.0\ref\Ejercicio_9.dll
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_9\bin\Debug\net5.0\Ejercicio_9.pdb
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_9\obj\Debug\net5.0\Ejercicio_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_9\obj\Debug\net5.0\Ejercicio_9.AssemblyInfoInputs.cache
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_9\obj\Debug\net5.0\Ejercicio_9.AssemblyInfo.cs
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_9\obj\Debug\net5.0\Ejercicio_9.csproj.CoreCompileInputs.cache
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_9\obj\Debug\net5.0\Ejercicio_9.dll
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_9\obj\Debug\net5.0\ref\Ejercicio_9.dll
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_9\obj\Debug\net5.0\Ejercicio_9.pdb
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_9\obj\Debug\net5.0\Ejercicio_9.genruntimeconfig.cache
