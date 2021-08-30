@@ -20,11 +20,12 @@ namespace Ejercicio_10
             int alto;
             Console.WriteLine("Alto: ");
             alto = int.Parse(Console.ReadLine());
-
+            //alto = 3
             for (int i = 0; i < alto; i++)
             {
-                Console.WriteLine(new String(' ', alto - i - 1) + new String('*', i + i + 1));
-            }
-        }
+                Console.WriteLine(new String(' ', alto - i - 1) + new String('*', i + i + 1)); 
+            }                                  //DEJO ESPACIOS                   AGREGO * 
+                                               //  3 - 0 - 1 = ' '       +       0 + 0 + 1  = '*'
+        }                                        
     }
 }

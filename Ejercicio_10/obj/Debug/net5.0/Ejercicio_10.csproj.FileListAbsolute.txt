@@ -13,3 +13,4 @@ C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_1
 C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_10\obj\Debug\net5.0\ref\Ejercicio_10.dll
 C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.pdb
 C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.genruntimeconfig.cache
+C:\Users\susy_\Documents\Leandro\Prog y Lab\Guia\Primeros_Ejercicios\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.csproj.AssemblyReference.cache
